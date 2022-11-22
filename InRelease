@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Tue, 22 Nov 2022 02:45:21 +0000
+MD5Sum:
+ 1e1cd7452ebed9691d4071bed3433800            14279 Packages
+ 5b73df1e43e58ecffb5193187b6c2ab8             4504 Packages.gz
+ 9f9bb3d442795a1f648e2d23fa43d92d               38 Release
+SHA1:
+ 0451923bf2a228832803d6d329f647c5e2017308            14279 Packages
+ 50844e944e1f85cbeedae1ea191cd90cfe9f2be6             4504 Packages.gz
+ 7a54a5fb8f5ac02db97c29e0e5506478a20dc355               38 Release
+SHA256:
+ 07aa0ed74b31403386090e14eac8d0685400c4eae1417e205e587bc6eafc1b00            14279 Packages
+ 710a7e199f4f9020101b271b79f1859bf7efeed2aa1340eeef3b979e1922ad26             4504 Packages.gz
+ 0da594d7526deac8b6fac6087bf534398b844dddeaf76fe3c5f4e7b62dc7d344               38 Release
+SHA512:
+ 596d695f17c0438ead8f101d1c03ef61387ba2a74d6e151a995da66b9e29d3a01192da5872085537a9331a3ca3e9f449826539113c0bd0bb46739b2b2febc03b            14279 Packages
+ 761bebadead0270ed90e1dc99b00cefc62df638f6f3fdfbdcd8d1bff09844e430a726a37b41966cf7eb9fe733a10822d9173cd5f1c62c09b9b91aeb845a4f87f             4504 Packages.gz
+ c3ea818e699d6ba62df32ae1aa8b32f157fffcc53e70a9de57c67e2431f5ad3ec207d6328dbd8bd2e8c90f4a61609fa76acecd4b925145a1aba7fa782854df85               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJPBAEBCgA5FiEECVd7wwAr8E44aFFvXQNKSgDFHsYFAmN8N8EbHGptY2NyZWVy
+eUBjcnVzb2VlbmVyZ3kuY29tAAoJEF0DSkoAxR7GUMYP/AnLymBFXtEngbJ60hVz
+Q7Nq3+RcpC29tt1WhdFhcaJXKla4STzMGJOpobTbly0QCWxvGwk0sb/GZc6buk2m
+Wvn0TvSPrdLOEE5WYWoCJbsujSwb4GvncCwjy+4nmdaE24cA6wS0qaepIUwi1+4Z
+IQJcnlml9rzLquyBvqCOCjjMHsDDduPpRzOTQylYkSyRmiqYbL/uv2qlwLtaktml
+yahvZM1xwpgVAbA54XSXADhcEudu4WJMbgf2ShxM3I81mfZy5tLl962loRi4W+pM
+an7mAmWTqDIREiQiuTNqtgI8sdPTt4+IO4x9i3ya+8BlCB+D65xtL1Bjteh06GT4
+ChwtNYbml/Qmvw2TzlOozj9ViqD9wdKnJ+wsv9mhbc48UxIc1hTYLjfniGT7n/3o
+Yig3a00Px7P0pIzX0rhIpvtJuhZqDTtFOSmE1khUxnFzvT3YOu6jS4M6DDfIIJgU
+GrEf6m/oSnG2wEAGtSaQ98LDIvcESYslLbE5Hly0mQSfreA7Waixr6LGouCFZZKi
+1XxS1nCI4H1M3tu+qKKPKc3ja+3jx1rLETpoUGmtVs3RukjlWQMadkotMnehCrRa
+a9AOVWOgQhcLKsqiEfIGjPnOgqxl/EW6aLHVbJfKBcm9VeA5Fi3aPC1FV+neruD5
+Q86xs46iW4x5gkqW7T3V8Ocs
+=2Vov
+-----END PGP SIGNATURE-----

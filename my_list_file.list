@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/maas.gpg] https://raw.githubusercontent.com/jonmccreery/maas_ppa/master ./

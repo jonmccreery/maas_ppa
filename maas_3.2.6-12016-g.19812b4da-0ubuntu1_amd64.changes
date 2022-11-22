@@ -1,0 +1,79 @@
+Format: 1.8
+Date: Wed, 21 Sep 2022 18:11:02 +0000
+Source: maas
+Binary: maas maas-cli maas-common maas-dhcp maas-dns maas-proxy maas-rack-controller maas-region-api maas-region-controller python3-django-maas python3-maas-client python3-maas-provisioningserver
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1:3.2.6-12016-g.19812b4da-0ubuntu1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: MAAS developers <maas-devel@lists.ubuntu.com>
+Changed-By: Christian Grabowski <christian.grabowski@canonical.com>
+Description:
+ maas       - "Metal as a Service" is a physical cloud and IPAM
+ maas-cli   - MAAS client and command-line interface
+ maas-common - MAAS server common files
+ maas-dhcp  - MAAS DHCP server
+ maas-dns   - dummy transitional package for MAAS DNS server
+ maas-proxy - MAAS Caching Proxy
+ maas-rack-controller - Rack Controller for MAAS
+ maas-region-api - Region controller API service for MAAS
+ maas-region-controller - Region Controller for MAAS
+ python3-django-maas - MAAS server Django web framework (Python 3)
+ python3-maas-client - MAAS python API client (Python 3)
+ python3-maas-provisioningserver - MAAS server provisioning libraries (Python 3)
+Changes:
+ maas (1:3.2.6-12016-g.19812b4da-0ubuntu1) UNRELEASED; urgency=medium
+ .
+   * New upstream release, MAAS 3.2.6.
+Checksums-Sha1:
+ f2dc8a4e30cbf68e71efac940fabd51fb9fd3763 1761 maas_3.2.6-12016-g.19812b4da-0ubuntu1.dsc
+ 8ecf4d719c397edb878472b9dad423f25ff60a0e 96523094 maas_3.2.6-12016-g.19812b4da.orig.tar.gz
+ 4669bffeca8fb994e55205707db5cbaae7a59e9c 47216 maas_3.2.6-12016-g.19812b4da-0ubuntu1.debian.tar.xz
+ 5490ac2e4e226a1b51ffa6b9fd9e1e680eca35f5 37542 maas-cli_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ b100265fabc4dc6ed95975fe3cdeb1aaa552febd 12302854 maas-common_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 7941763d363755a4880fe59b0a5da5ce22933404 39038 maas-dhcp_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ dd19cca7dcddba496772772407c62df92ddae15d 36728 maas-dns_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 813c9dd0f00efea86538542dfd0ca11ec2378c12 38908 maas-proxy_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 5eea09335a1b896257fe6496f9fe24a8209bd5e5 45410 maas-rack-controller_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ c8018f1216b7e2a40f68b9ef057d848139be9015 27684800 maas-region-api_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 1d81467098dc5b2d165ab34d141036a93ad86c6f 39942 maas-region-controller_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 9a173b133c158626902abe50c257ffd6c59993de 37654 maas_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ d37243dde20acf42238d0e3a05816343ebf86cdd 11486 maas_3.2.6-12016-g.19812b4da-0ubuntu1_amd64.buildinfo
+ 42cade2ac393d29a659e0690ec33cac03902b0d5 874256 python3-django-maas_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 562933899f66e59b7b87bf15b505ce9c534b6a12 68598 python3-maas-client_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 9b4df4800667086ecfb74ef9afb4943638e42352 344424 python3-maas-provisioningserver_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+Checksums-Sha256:
+ fb5b550a0474b11a5560595b04dd3e9b6e0da674f9d4feded78df41b27745052 1761 maas_3.2.6-12016-g.19812b4da-0ubuntu1.dsc
+ ea9e79320f3af795e4ef35f86d11efa726c081f9acfcb3a644c63a0cdbd574d0 96523094 maas_3.2.6-12016-g.19812b4da.orig.tar.gz
+ 119cc286d2f6db341e05671e463ff469d23f674a732b8d2f1adb47ceb2cae198 47216 maas_3.2.6-12016-g.19812b4da-0ubuntu1.debian.tar.xz
+ 4023e7b2f048d8aa940acb8c9835729cfe61150164c7d226a4942fbba7295b80 37542 maas-cli_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 1b74acf1a5a3e244343283af75de93343c3e12713fe6d8bce7682587676f5d56 12302854 maas-common_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 2e5904ec96e8b8acc12dc1c3e332b276c1f0d5884fc8cbc9c375c0f7af79bde3 39038 maas-dhcp_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ bfb52ee94cab80a88698c26f948e0c1051013edea5becda38046b93b99237016 36728 maas-dns_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ d74e3728656fcba4bde2d740c8615f0810041ef4d4a3e15e37ee955c63931821 38908 maas-proxy_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 768283f8eadbd4c52b2c444b817768d16f52a906d78aae39ceb27971ab926996 45410 maas-rack-controller_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ f947773ce40f73f6426f7c2875c0067108562a92586a2570e395247554f73109 27684800 maas-region-api_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ a2bf9833e6ca48411479f19da61a002120eec6a4df329915f9803ad58cbfe847 39942 maas-region-controller_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ c486a76aa6e0e1c7614509e1738e1992a3480d47b42c0e05852fa687c9db4c56 37654 maas_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 2d1e7ac369aa4fb0aa9604e31c1df0729f795d8e8a1e4b74e9857ec3fc729912 11486 maas_3.2.6-12016-g.19812b4da-0ubuntu1_amd64.buildinfo
+ ba93c872afd93097c0b7002cb806c62cc0b41cc7b248163563108d68a4c8142d 874256 python3-django-maas_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ d2eef1a9fff296309466705ed54f952b3eb4b55414a531387c4bc4d4c10b12c8 68598 python3-maas-client_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ b94a59dca4d001b46f88d98a019f71ec1332404b39363dc62db4a24366175405 344424 python3-maas-provisioningserver_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+Files:
+ 4e6456594c9fc38241fd173e3131cc66 1761 net optional maas_3.2.6-12016-g.19812b4da-0ubuntu1.dsc
+ 555e154cfeebf9a609945a9b87c03d7a 96523094 net optional maas_3.2.6-12016-g.19812b4da.orig.tar.gz
+ 3e565628afc2d01fe75d8c00265f34cc 47216 net optional maas_3.2.6-12016-g.19812b4da-0ubuntu1.debian.tar.xz
+ 8abb21e20ae3391f53c98f1588d1475f 37542 net optional maas-cli_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 0bd42781ff63171188cf4f6b17ea8990 12302854 net optional maas-common_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 5b978b00c4908549372b559e5436b0b8 39038 net optional maas-dhcp_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 8d437d9ccd2dd50586116bb590ff8769 36728 net optional maas-dns_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 4a5c2115a9526da3848750ebd80e7865 38908 net optional maas-proxy_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ a8f24edc0ff0fdbf395034f07ae224af 45410 net optional maas-rack-controller_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 936207f26bbbc208dd4ef123d6b0a8af 27684800 net optional maas-region-api_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 3eb5422ad219d8abaeda913866a9fa2d 39942 net optional maas-region-controller_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 2efb012fe534047c3a3e33d6013a273f 37654 net optional maas_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ b7e6b70a87675ba4c5f173b72ed8ed1d 11486 net optional maas_3.2.6-12016-g.19812b4da-0ubuntu1_amd64.buildinfo
+ 9babc8e7620774015c6a7a0bc831f8cd 874256 python optional python3-django-maas_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ d96789fcfccc755c4c799944a6ace07c 68598 python optional python3-maas-client_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
+ 81f8a170d0acec3b50674a72719668e0 344424 python optional python3-maas-provisioningserver_3.2.6-12016-g.19812b4da-0ubuntu1_all.deb
